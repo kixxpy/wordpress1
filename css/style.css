@@ -238,3 +238,43 @@
     margin-top: 24px;
 
 }
+
+/* present */
+
+.presen {
+    padding-top: 86px;
+    min-height: 631px;
+    background-color: #EFEFEF;
+}
+.present-img {
+    display: block;
+    width: 154px;
+    height: 174px;
+    margin: 0 auto;
+}
+.present-descr {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    color: #252525;
+    margin-top: 45px;
+}
+.present-btn {
+    display: block;
+    margin: 0 auto;
+    width: 313px;
+    height: 72px;   
+    font-weight: 100;
+    background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    font-size: 18px;
+    align-items: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
+    border: none;
+    margin-top: 51px;
+    outline: none;
+}
