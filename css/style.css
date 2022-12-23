@@ -278,3 +278,48 @@
     margin-top: 51px;
     outline: none;
 }
+
+/* first */
+
+.first {
+    min-height: 512px;
+}
+.first-wrapper {
+    display: block;
+    margin: 0 auto;
+    width: 577px;
+    height: 433px;
+    padding-top: 81px;
+}
+.first-img {
+    display: block;
+    margin: 0 auto;
+    width: 342px;
+    height: 201px;
+}
+.first-title {
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+    margin-top: 36px;
+
+
+}
+.first-descr {
+    text-align: center;
+    font-weight: 900;
+    font-size: 36px;
+    color: #299CBD;
+    margin-top: 30px;
+
+}
+.first-tex {
+    text-align: center;
+    font-weight: 400;
+    font-size: 23px;
+    color: #4A4A4A;
+    margin-top: 24px;
+}
