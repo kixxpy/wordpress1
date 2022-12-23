@@ -323,3 +323,47 @@
     color: #4A4A4A;
     margin-top: 24px;
 }
+
+/* footer */
+
+.footer {
+    min-height: 169px;
+    background: #1A1A1A;    
+}
+.container {
+}
+.support-politics {
+    display: flex;
+    justify-content: space-around;
+    width: 407px;
+    padding-top: 55px;
+    margin: 0 auto;
+}
+.support a {
+    font-weight: 300;
+    font-size: 15px;
+    color: #888888;
+}
+.line {
+    background: #888888;
+    height: 16px;
+    width: 1px;
+}
+.politics a {
+    font-weight: 300;
+    font-size: 15px;
+    color: #888888;
+}
+.tel {
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+    color: #888888;
+    margin-top: 8px;
+}
+.tel a {
+    font-weight: 300;
+    font-size: 15px;
+    color: #888888;
+    text-decoration: none;
+}
