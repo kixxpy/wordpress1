@@ -179,7 +179,6 @@
     color: #4A4A4A;
     font-weight: 300;
     font-size: 17px;
-    font-family: 'Roboto';
     width: 750px;
     margin-top: 25px;
 }
@@ -196,7 +195,6 @@
     font-size: 30px;
     text-align: center;
     color: #EFEFEF;
-    font-family: 'Roboto';
 }
 .finish-line {
     width: 220px;
@@ -231,8 +229,7 @@
 }
 .finish-descr {
     text-align: center;
-    font-family: 'Roboto';
-    font-weight: 200;
+    font-weight: 300;
     font-size: 17px;
     color: #EFEFEF;
     margin-top: 24px;
@@ -253,7 +250,6 @@
     margin: 0 auto;
 }
 .present-descr {
-    font-family: 'Roboto';
     font-weight: 400;
     font-size: 30px;
     text-align: center;
